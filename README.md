@@ -39,7 +39,7 @@ git clone https://github.com/YourUsername/AR-Wedding-Invitation-Project.git
 
 ## Notes
 
-- If you encounter any issues while running the web application, please refer to the troubleshooting section in the [wiki](https://github.com/YourUsername/AR-Wedding-Invitation-Project/wiki).
+- If you encounter any issues while running the web application, please refer to the troubleshooting section in the [wiki](https://github.com/CaoQuocViet/AR-Wedding-Invitation-Web/wiki).
 - Make sure to replace `YourUsername` in the repository URL with your actual GitHub username.
 
 ## License
@@ -48,4 +48,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For more information about the AR Wedding Invitation project and its development, please visit the [project repository](https://github.com/YourUsername/AR-Wedding-Invitation-Project).
+For more information about the AR Wedding Invitation project and its development, please visit the [project repository](https://github.com/CaoQuocViet/AR-Wedding-Invitation-Web).
+
