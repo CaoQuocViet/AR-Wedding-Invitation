@@ -1,33 +1,51 @@
-# AR Wedding Invitation
+# AR Wedding Invitation - Web Build
 
-Unveil an innovative wedding experience with our Augmented Reality invitation. Scan and discover our story, venue, and more in a captivating digital realm. Join us in celebrating love, tech, and togetherness.
+Welcome to the AR Wedding Invitation project! This project showcases an innovative and interactive way to deliver wedding details using augmented reality technology. Guests can experience the joy of our special day through their devices, witnessing virtual elements that breathe life into our love story and event information. This guide will walk you through the process of setting up and running the AR Wedding Invitation web application.
 
-## Features
+<p align="center">
+  <img src="Demo.png" alt="AR Wedding Invitation" width="600">
+</p>
 
-- Personalized AR experience: Guests can use their smartphones or AR devices to scan the invitation and unlock a personalized message from the couple.
-- Virtual venue tour: Explore the wedding venue through an AR tour, providing a sneak peek of the ceremony and reception areas.
-- Interactive elements: Engage with interactive AR elements, such as animated images, 3D models, and heartfelt videos that share the couple's journey.
+## Video Preview
+
+Get a glimpse of the AR Wedding Invitation experience by watching the video below:
+
+<p align="center">
+  <a href="https://youtu.be/MfpYFZWqypw">
+    <img src="https://img.youtube.com/vi/MfpYFZWqypw/0.jpg" alt="AR Wedding Invitation Video" width="800">
+  </a>
+</p>
+<p align="center">
+  <em>Click the image above to watch the video.</em>
+</p>
 
 ## Getting Started
 
-1. Clone this repository to your local machine.
-2. Install the required AR application on your device (compatible apps will be listed in the repository).
-3. Open the AR application and scan the QR code on the physical invitation or use the provided image targets.
-4. Enjoy the immersive AR experience, navigate through different sections, and celebrate with the couple virtually.
+To run the AR Wedding Invitation web application, follow these steps:
 
-## Contributing
+1. Clone this repository to your local machine:
+git clone https://github.com/YourUsername/AR-Wedding-Invitation-Project.git
 
-Contributions to enhance the AR Wedding Invitation project are welcome! Feel free to fork the repository, make improvements, and create pull requests. Let's work together to create memorable and technologically innovative wedding experiences.
+
+2. Locate the `webgl.rar` file in the `Build/` directory.
+
+3. Extract the contents of the `webgl.rar` file.
+
+4. Move the extracted files into the `Build/` directory.
+
+5. Open a web browser and navigate to the `index.html` file in the `Build/` directory.
+
+6. Experience the AR Wedding Invitation by interacting with the web application.
+
+## Notes
+
+- If you encounter any issues while running the web application, please refer to the troubleshooting section in the [wiki](https://github.com/YourUsername/AR-Wedding-Invitation-Project/wiki).
+- Make sure to replace `YourUsername` in the repository URL with your actual GitHub username.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Stay Connected
+---
 
-Follow us on social media [@CoupleNames] for updates and behind-the-scenes peeks into our wedding journey.
-
-We're excited to share this modern twist on wedding invitations with our beloved friends and family. Join us in celebrating the union of two souls in both the physical and virtual realms.
-
-Happy Celebrating!
-Cao Quoc Viet
+For more information about the AR Wedding Invitation project and its development, please visit the [project repository](https://github.com/YourUsername/AR-Wedding-Invitation-Project).
