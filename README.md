@@ -11,7 +11,7 @@ Welcome to the AR Wedding Invitation project! This project showcases an innovati
 Get a glimpse of the AR Wedding Invitation experience by watching the video below:
 
 <p align="center">
-  <a href="https://youtu.be/MfpYFZWqypw">
+  <a href="https://www.youtube.com/watch?v=Z_KJ-D77XMA">
     <img src="https://img.youtube.com/vi/MfpYFZWqypw/0.jpg" alt="AR Wedding Invitation Video" width="800">
   </a>
 </p>
